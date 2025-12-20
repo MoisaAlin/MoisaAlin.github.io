@@ -7,12 +7,12 @@ You can access the website with the foolowing link:
 
 ## Tehnologies Used
 
-**Frontend**: HTML, CSS, Javascript
-**Backend**: Github Pages
+* **Frontend**: HTML, CSS, Javascript
+* **Backend**: Github Pages
 
 ## Sections
 
-**About me** - Short introduction about myself
-**Projects** - List of my projects with short description
-**Skills** - Tehnologies, tools and programming languages that I use
-**Contact** - how to find me
+* **About me** - Short introduction about myself
+* **Projects** - List of my projects with short description
+* **Skills** - Tehnologies, tools and programming languages that I use
+* **Contact** - how to find me
