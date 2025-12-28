@@ -121,6 +121,7 @@ h2 {
      padding: 1.5rem;
      border-radius: 8px;
      transition: transform 0.3s, box-shadow 0.3s;
+     text-decoration: none;
 }
 
 .project-card:hover {
