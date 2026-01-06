@@ -3,7 +3,7 @@ My personal portfolio website. It showcase my projects, skills, and contact info
 
 ## Live demo
 
-You can access the website with the foolowing link: MoisaAlin.github.io
+You can access the website with the foolowing link: [MoisaAlin.github.io](https://MoisaAlin.github.io)
 
 ## Tehnologies Used
 
